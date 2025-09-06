@@ -1,0 +1,8 @@
+### Get level word (id=1)
+GET https://openapi.programming-hero.com/api/level/1
+
+### Get level word (id=2)
+GET https://openapi.programming-hero.com/api/level/2
+
+### Get all levels
+GET https://openapi.programming-hero.com/api/levels/all
